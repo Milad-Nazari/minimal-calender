@@ -16,5 +16,5 @@ steps:
     scheme: ''
     sdk: 'iphoneos'
     configuration: 'Release'
-    xcWorkspacePath: '/Users/runner/work/1/s/minimal-calender'
+    xcWorkspacePath: '/Users/runner/work/1/minimal-calender'
     xcodeVersion: 'default' # Options: 8, 9, 10, 11, 12, default, specifyPath
