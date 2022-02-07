@@ -1,0 +1,32 @@
+{
+  "images" : [
+    {
+      "filename" : "utility38mm@2x.png",
+      "screen-width" : "<=145",
+      "scale" : "2x",
+      "idiom" : "watch"
+    },
+    {
+      "filename" : "utility40mm@2x.png",
+      "screen-width" : ">161",
+      "scale" : "2x",
+      "idiom" : "watch"
+    },
+    {
+      "filename" : "utility42mm@2x.png",
+      "screen-width" : ">145",
+      "scale" : "2x",
+      "idiom" : "watch"
+    },
+    {
+      "filename" : "utility44mm@2x.png",
+      "screen-width" : ">183",
+      "idiom" : "watch",
+      "scale" : "2x"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  }
+}
